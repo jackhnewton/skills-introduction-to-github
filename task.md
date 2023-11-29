@@ -1,7 +1,7 @@
 [Task Automation](#task-automation)
-[Advantages of Task Automation] (#advantages-of-task-automation)
-[Assisting In Task Automation] (#assisting-in-task-automation)
-[What Does the Process Look Like] (#what-does-the-process-look-like)
+[Advantages of Task Automation](#advantages-of-task-automation)
+[Assisting In Task Automation](#assisting-in-task-automation)
+[What Does the Process Look Like](#what-does-the-process-look-like)
 
 ## Task Automation
 
